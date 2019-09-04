@@ -1,0 +1,11 @@
+﻿Index;object;Temp change base;Temp change green;Temp change water;Buffer;Color
+0;Trees on grass;-1,65;-0,65;-0,75;0;Green
+1;Trees on avenue;-1;0;-0,1;0;Green
+2;Grass field;-1;0;-0,1;0;Green
+3;Green roofs;-0,52;0,48;0,38;0;Red
+4;Cool roofs;-0,52;0,48;0,38;0;Red
+5;Facade greening;-0,3;0,7;0,6;30;Red
+6;Solar panels;0;1;0,9;0;Red
+7;Pond/river;-0,9;0,1;0;30;Blue
+8;Fountain;-3;-2;-2,1;35;Blue
+9;Surface albedo change;-0,6;0,4;0,3;0;Grey
